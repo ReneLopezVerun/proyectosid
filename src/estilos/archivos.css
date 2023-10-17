@@ -15,7 +15,7 @@
   }
   
   .Archivos-label {
-    font-size: 16px;
+    font-size: 26px;
     color: #007BFF;
   }
   
@@ -24,8 +24,8 @@
   }
 
   .SelectedImage {
-    max-width: 100%; /* Ajusta la imagen al ancho del contenedor */
-    max-height: 50vh; /* Establece la altura máxima (ajusta según tus necesidades) */
-    display: block; /* Evita los espacios en blanco no deseados */
-    margin: 0 auto; /* Centra horizontalmente la imagen */
+    max-width: 100%; 
+    max-height: 50vh;
+    display: block;
+    margin: 0 auto; 
   }
