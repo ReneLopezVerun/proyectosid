@@ -1,0 +1,22 @@
+.BotonDiagnostico {
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 30px; 
+    padding: 15px 30px;
+    font-size: 20px; 
+    cursor: pointer;
+    transition: background-color 0.3s;
+    display: block; 
+    margin: 0 auto;
+    margin-top: 10px;
+  }
+  
+  .BotonDiagnostico:hover {
+    background-color: #29ab3a; 
+  }
+  
+  .BotonDiagnostico:focus {
+    outline: none;
+  }
+  

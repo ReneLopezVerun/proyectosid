@@ -1,0 +1,16 @@
+.TituloContainer {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    text-align: center;
+    height: 20vh;
+    color: white; 
+    font-size: 24px; 
+  }
+
+  h1{
+    background-color: #007BFF; 
+    height: 100%;
+    width: 80%;
+  }
+  

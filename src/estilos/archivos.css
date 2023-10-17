@@ -1,0 +1,31 @@
+.Archivos {
+    height: 50vh;
+    border: 2px dashed #007BFF;
+    border-radius: 8px;
+    margin-top: 10px;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 20px;
+    text-align: center;
+    cursor: pointer;
+  }
+  
+  .Archivos-dragging {
+    background-color: #f0f0f0;
+  }
+  
+  .Archivos-label {
+    font-size: 16px;
+    color: #007BFF;
+  }
+  
+  #file-input {
+    display: none;
+  }
+
+  .SelectedImage {
+    max-width: 100%; /* Ajusta la imagen al ancho del contenedor */
+    max-height: 50vh; /* Establece la altura máxima (ajusta según tus necesidades) */
+    display: block; /* Evita los espacios en blanco no deseados */
+    margin: 0 auto; /* Centra horizontalmente la imagen */
+  }
